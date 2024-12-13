@@ -8,6 +8,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
+import com.lucascosta.workshopmongo.domain.Post;
 import com.lucascosta.workshopmongo.domain.User;
 import com.lucascosta.workshopmongo.dto.UserDTO;
 import com.lucascosta.workshopmongo.services.UserService;
